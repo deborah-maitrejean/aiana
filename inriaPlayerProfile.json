@@ -1,0 +1,18 @@
+{
+  "name": "television",
+  "isMainVideo": false,
+  "isVideo": true,
+  "isSubtitles": true,
+  "isAdditionalInfo": false,
+  "isUILocked": true,
+  "isSound": true,
+  "soundLevel": "0.5",
+  "playbackRate": "1.25",
+  "preferenceId": 0,
+  "themeId": 2,
+  "sizeAndPositionCSS": "#group-navigate {\n\ttop: 90.3956%;\n\tright: 75.9966%;\n\theight: 7.99647%;\n\twidth: 20.9966%;\n}\n#group-notion {\n\ttop: 0.000127027%;\n\tright: 0.00000637805%;\n\theight: 0.0000112401%;\n\twidth: 0.0000015134%;\n}\n#group-rate {\n\ttop: 90.3956%;\n\tright: 41.997%;\n\theight: 7.99647%;\n\twidth: 13.9939%;\n}\n#group-settings {\n\ttop: 90.3956%;\n\tright: 11.997%;\n\theight: 7.99647%;\n\twidth: 20.9966%;\n}\n#group-fullscreen {\n\ttop: 90.3956%;\n\tright: 2.99733%;\n\theight: 7.99647%;\n\twidth: 5.99657%;\n}\n#group-notifications {\n\ttop: 32.7469%;\n\theight: 15.9955%;\n\twidth: 30%;\n}\n#group-video {\n\ttop: 48.75%;\n\tright: 1.58537%;\n\theight: 23.9969%;\n\twidth: 30%;\n}\n#group-subtitles {\n\ttop: 74.2465%;\n\theight: 7.24295%;\n\twidth: 100%;\n}\n",
+  "isLoggingAllowed": true,
+  "isTVMode": false,
+  "isNotIndexed": true,
+  "isEnhancedSub": false
+}
